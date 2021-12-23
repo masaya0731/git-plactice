@@ -23,6 +23,10 @@
 - rails db:seed
 - bundle install
 
+## 管理者ログイン
+- 管理者側アドレス　2pair＠gmail.com
+- 管理者側パスワード 111111
+
 ## team2ペア
 ### メンバー
 - しゅん
