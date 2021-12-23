@@ -15,6 +15,14 @@
 ## 開発環境  
 - Ruby 2.6.3  
 - Rails 5.2.6  
+## 環境構築に必要な手順
+
+- git clone git@github.com:team-2pair/nagano_cake.git
+- cd nagano_cake
+- rails db:migrate
+- rails db:seed
+- bundle install
+
 ## team2ペア
 ### メンバー
 - しゅん
