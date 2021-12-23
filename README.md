@@ -2,7 +2,7 @@
 DMM　WEBCAMP チーム開発 ECサイト制作課題
 
 ## 概要
-長野県にある小さな洋菓子店「ながのCAKE」の商品を通販するためのECサイト開発。
+長野県にある小さな洋菓子店「ながのCAKE」の商品を通販するためのECサイト
 
 ## 設計書ER
 - [要件定義書](https://github.com/webcamp-nisaisa/webcamp-naganocake/files/7592692/default.pdf) 
